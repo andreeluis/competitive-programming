@@ -1,0 +1,10 @@
+# ignore all files without extension (for c codes)
+*
+!*/
+!*.*
+
+# java
+*.class
+
+# test file
+a.out
