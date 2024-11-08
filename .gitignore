@@ -7,4 +7,7 @@
 *.class
 
 # test file
-a.out
+*.res.out
+
+# vscode
+.vscode
