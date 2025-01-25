@@ -13,7 +13,7 @@
 - [1259](1259): [Even and Odd](https://www.beecrowd.com.br/repository/UOJ_1259_en.html) [(Pares e Ímpares)](https://www.beecrowd.com.br/repository/UOJ_1259.html) ⚠️
 - [1451](1451): [Broken Keyboard](https://www.beecrowd.com.br/repository/UOJ_1451_en.html) [(Teclado Quebrado)](https://www.beecrowd.com.br/repository/UOJ_1451.html) ⚠️
 - [1523](1523): [Linear Parking Lot](https://www.beecrowd.com.br/repository/UOJ_1523_en.html) [(Estacionamento Linear)](https://www.beecrowd.com.br/repository/UOJ_1523.html)
-- [1566](1566): [Height](https://www.beecrowd.com.br/repository/UOJ_1566_en.html) [(Altura)](https://www.beecrowd.com.br/repository/UOJ_1566.html) ⚠️
+- [1566](1566): [Height](https://www.beecrowd.com.br/repository/UOJ_1566_en.html) [(Altura)](https://www.beecrowd.com.br/repository/UOJ_1566.html)
 - [2006](2006): [Identifying Tea](https://www.beecrowd.com.br/repository/UOJ_2006_en.html) [(Identificando o Chá)](https://www.beecrowd.com.br/repository/UOJ_2006.html)
 - [2137](2137): [The Library of Mr. Severino](https://www.beecrowd.com.br/repository/UOJ_2137_en.html) [(A Biblioteca do Senhor Severino)](https://www.beecrowd.com.br/repository/UOJ_2137.html)
 - [2187](2187): [Bits Exchanged](https://www.beecrowd.com.br/repository/UOJ_2187_en.html) [(Bits Trocados)](https://www.beecrowd.com.br/repository/UOJ_2187.html)
