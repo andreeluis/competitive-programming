@@ -1,7 +1,9 @@
 # [1018 - Banknotes](https://www.beecrowd.com.br/repository/UOJ_1018_en.html)
 
-<img alt="Easy Badge" src="https://img.shields.io/badge/Easy-%231a7f37?style=for-the-badge">
-<img alt="Greedy Algorithm Badge" src="https://img.shields.io/badge/Greedy%20Algorithm-%238250df?style=for-the-badge">
+<p>
+	<img alt="Easy Badge" src="https://img.shields.io/badge/Easy-%231a7f37?style=for-the-badge">
+	<img alt="Greedy Algorithm Badge" src="https://img.shields.io/badge/Greedy%20Algorithm-%238250df?style=for-the-badge">
+</p>
 
 In this problem you have to read an integer value and calculate the smallest possible number of banknotes in which the value may be decomposed. The possible banknotes are `100`, `50`, `20`, `10`, `5`, `2` and `1`. Print the read value and the list of banknotes.
 

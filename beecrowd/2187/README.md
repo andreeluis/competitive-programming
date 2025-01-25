@@ -1,7 +1,9 @@
 # [2187 - Bits Exchanged](https://www.beecrowd.com.br/repository/UOJ_2187_en.html)
 
-<img alt="Easy Badge" src="https://img.shields.io/badge/Easy-%231a7f37?style=for-the-badge">
-<img alt="Greedy Algorithm Badge" src="https://img.shields.io/badge/Greedy%20Algorithm-%238250df?style=for-the-badge">
+<p>
+	<img alt="Easy Badge" src="https://img.shields.io/badge/Easy-%231a7f37?style=for-the-badge">
+	<img alt="Greedy Algorithm Badge" src="https://img.shields.io/badge/Greedy%20Algorithm-%238250df?style=for-the-badge">
+</p>
 
 The Weblands Islands form an independent kingdom in the Pacific seas. As a new kingdom, the society is greatly influenced by computers. The official currency is the Bit, and there are notes of **B$ 50**, **B$ 10**, **B$ 5**, and **B$ 1**. You have been hired to assist in the programming of the ATMs for a large bank in the Weblands Islands.
 
