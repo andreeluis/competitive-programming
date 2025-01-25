@@ -109,4 +109,6 @@ int main() {
 		cout << "In..: " << tree.printInOrder() << endl;
 		cout << "Post: " << tree.printPostOrder() << endl << endl;
 	}
+
+	return 0;
 }
