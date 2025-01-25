@@ -1,13 +1,13 @@
-# ignore all files without extension (for c codes)
+# Ignore files with no extension (compiled C and C++ files)
 *
 !*/
 !*.*
 
-# java
+# Ignore compiled Java classes
 *.class
 
-# test file
+# Ignore Verde CLI's output
 *.res.out
 
-# vscode
+# Ignore Visual Studio Code's settings
 .vscode
