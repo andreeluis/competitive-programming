@@ -17,7 +17,7 @@
 - [2006](2006): [Identifying Tea](https://www.beecrowd.com.br/repository/UOJ_2006_en.html) [(Identificando o Chá)](https://www.beecrowd.com.br/repository/UOJ_2006.html)
 - [2137](2137): [The Library of Mr. Severino](https://www.beecrowd.com.br/repository/UOJ_2137_en.html) [(A Biblioteca do Senhor Severino)](https://www.beecrowd.com.br/repository/UOJ_2137.html)
 - [2187](2187): [Bits Exchanged](https://www.beecrowd.com.br/repository/UOJ_2187_en.html) [(Bits Trocados)](https://www.beecrowd.com.br/repository/UOJ_2187.html)
-- [2312](2312): [Medal Table](https://www.beecrowd.com.br/repository/UOJ_2312_en.html) [(Quadro de Medalhas)](https://www.beecrowd.com.br/repository/UOJ_2312.html) ⚠️
+- [2312](2312): [Medal Table](https://www.beecrowd.com.br/repository/UOJ_2312_en.html) [(Quadro de Medalhas)](https://www.beecrowd.com.br/repository/UOJ_2312.html)
 - [2344](2344): [Notas da Prova](https://www.beecrowd.com.br/repository/UOJ_2344.html)
 - [2381](2381): [Call List](https://www.beecrowd.com.br/repository/UOJ_2381_en.html) [(Lista de Chamada)](https://www.beecrowd.com.br/repository/UOJ_2381.html)
 - [2479](2479): [Sorting Santa's List of Children](https://www.beecrowd.com.br/repository/UOJ_2479_en.html) [(Ordenando a Lista de Crianças do Papai Noel)](https://www.beecrowd.com.br/repository/UOJ_2479.html)
